@@ -370,8 +370,8 @@ Built with ❤️ for transparent public fund management
 
 ## 📧 Contact
 
-- **GitHub:** [@mdsaad31](https://github.com/mdsaad31)
-- **Repository:** [DappTrack](https://github.com/mdsaad31/DappTrack)
+- **GitHub:** [@mdaqib18](https://github.com/mdaqib18)
+- **Repository:** [DappTrack](https://github.com/mdaqib18/DappTrack)
 
 ---
 
